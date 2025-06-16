@@ -38,7 +38,7 @@ And yeah, I'm student of HCMCOU (2 years)#
 
 - [scripts-tools](https://github.com/khaquachtrong74/scripts-tools): Handy scripts and utilities for automation.
 - [Golang](https://github.com/khaquachtrong74/Golang): My Go language learning and experiments.
-- [simple-html](https://github.com/khaquachtrong74/simple-html): Minimal and clean HTML 
+- [simple-front-end](https://github.com/khaquachtrong74/simple-front-end): Minimal and clean HTML 
 ---
 
 📫 How to reach me: <br>
