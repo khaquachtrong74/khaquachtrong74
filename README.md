@@ -33,12 +33,6 @@ And yeah, I'm student of HCMCOU (2 years)#
 <img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=blue_navy&show_icons=true" alt="GitHub Stats" width = "40%" style="display:inline">
 
 > Btw I make some cli-tools, if you interesting, you can [Click here!](https://github.com/khaquachtrong74/scripts-tools).
-
-## 🛠️ Favorite Projects
-
-- [scripts-tools](https://github.com/khaquachtrong74/scripts-tools): Handy scripts and utilities for automation.
-- [Golang](https://github.com/khaquachtrong74/Golang): My Go language learning and experiments.
-- [simple-front-end](https://github.com/khaquachtrong74/simple-front-end): Minimal and clean HTML 
 ---
 
 📫 How to reach me: <br>
