@@ -1,26 +1,28 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+
 ---
-Date: 15-06-2025
+
+<div style="background-color:white">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg">
+	  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&size=32&center=true&vCenter=true&width=1200&height=120&lines=📖+Open+University+of+Ho+Chi+Minh+City;Α+Β+Γ+Δ+Ε+Ζ+Η+Θ+Ι+Κ+Λ+Μ+Ν;Depressed+with+bugs;Ξ+Ο+Π+Ρ+Σ+Τ+Υ+Φ+Χ+Ψ+Ω&color=6d8fd6">
+	</a>
+</div>
+
 ---
---- 
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=📖+Open+University+of+Ho+Chi+Minh+City;Learning+World+:u">
-</a>
 
-# Greeting!
+<div style="flex justify-content:between">
+	<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+	<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+	<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+	<img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" alt="What the dog doing XD" width="30%" style="text-center" >
+	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="30%"  >
+</div>
 
-  <img src="https://raw.githubusercontent.com/khaquachtrong74/khaquachtrong74/main/Profile/jake.gif" alt="What the dog doing XD" width="50%" >
- 
-Let me Introduce myself <a href="https://khaquachtrong74.github.io/simple-front-end/tailwindcss_test/">Click me!</a><br>
-And yeah, I'm student of HCMCOU (2 years)#
-<p>
-	<a href="https://github.com/khaquachtrong74">
-		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-	</a>
-	<a href="https://www.quora.com/profile/Da-Kha-1">
-		<img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white">
-	</a>
-</p>
+
+
+[Here is my portfolio](https://khaquachtrong74.github.io/simple-front-end/tailwindcss_test/)
+and yeah, I'm student of HCMC-OU $3 years$ <br> 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
@@ -28,17 +30,25 @@ And yeah, I'm student of HCMCOU (2 years)#
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaquachtrong74/snk/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Snake animation" width="100%" src="https://raw.githubusercontent.com/khaquachtrong74/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=5&layout=compact&theme=blue_navy" alt="Top Languages" width = "40%">
-<img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=blue_navy&show_icons=true" alt="GitHub Stats" width = "40%" style="display:inline">
 
-> Btw I make some cli-tools, if you interesting, you can [Click here!](https://github.com/khaquachtrong74/scripts-tools).
+
+
+<div style="flex justify-content:between">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=4&layout=compact&theme=blue_navy" alt="Top Languages" width = "47%">
+	<img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=blue_navy&show_icons=true" alt="GitHub Stats" width = "52%" style="display:inline">
+</div>
+
 ---
 
-📫 How to reach me: <br>
-Email: khaquachtrong74@gmail.com
+Date: 04-10-2025
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaquachtrong74/snk/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/khaquachtrong74/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+📫 Contact Email: khaquachtrong74@gmail.com
+
+
