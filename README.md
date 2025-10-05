@@ -30,12 +30,6 @@ and yeah, I'm student of HCMC-OU $3 years$ <br>
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaquachtrong74/snk/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Snake animation" width="100%" src="https://raw.githubusercontent.com/khaquachtrong74/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 
 
