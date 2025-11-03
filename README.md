@@ -21,7 +21,7 @@
 
 
 
-[Here is my portfolio](https://khaquachtrong74.github.io/simple-front-end/tailwindcss_test/)
+[Here is my portfolio](https://khaquachtrong74.github.io/Frontend/tailwindcss_test/)
 and yeah, I'm student of HCMC-OU $3 years$ <br> 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
