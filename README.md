@@ -1,5 +1,3 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
-
 ---
 
 <div style="background-color:white">
@@ -22,7 +20,6 @@
 
 
 [Here is my portfolio](https://khaquachtrong74.github.io/Frontend/tailwindcss_test/)
-and yeah, I'm student of HCMC-OU $3 years$ <br> 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
