@@ -8,24 +8,15 @@
 
 ---
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
-
-
-[Here is my portfolio](https://khaquachtrong74.github.io/Frontend/tailwindcss_test/)
+[Nothing!](https://khaquachtrong74.github.io/Frontend/tailwindcss_test/)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-
-
-
 
 <div style="flex justify-content:between">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=4&layout=compact&theme=blue_navy" alt="Top Languages" width = "47%">
@@ -34,7 +25,7 @@
 
 ---
 
-Date: 04-10-2025
+Date: 09-11-2025
 
 📫 Contact Email: khaquachtrong74@gmail.com
 
