@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
-[Nothing!](https://khaquachtrong74.github.io/Frontend/tailwindcss_test/)
+[Nodething!](https://khaquachtrong74.github.io/Frontend/tailwindcss_test/)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
