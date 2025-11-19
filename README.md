@@ -10,9 +10,9 @@
 	
 ### 👋 Hi, I'm κΗα ₍ᐢ•ﻌ•ᐢ₎ 20-year-old CS Student
 	
-<p>Passionate about Software Engineering, Security and AI.</p>
-<p>Reading manga 20 minutes before bed was 4 hours best in my daily life</p>
-<p>Love doing stuff on Linux — hate it when the system goes down.</p>
+Passionate about Software Engineering, Security and AI.<br>
+Reading manga 20 minutes before bed was 4 hours best in my daily life<br>
+Love doing stuff on Linux — hate it when the system goes down.
 	
 
 
@@ -30,9 +30,9 @@
 [](https://khaquachtrong74.github.io/Frontend/tailwindcss_test/)
 
 
-<div style="flex justify-content:between">
-	<img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=tokyonight&show_icons=true" alt="GitHub Stats" width = "52%" style="display:inline">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=4&layout=compact&theme=tokyonight" alt="Top Languages" width = "47%">
+<div style="flex justify-content:between" align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=tokyonight&show_icons=true" alt="GitHub Stats" width = "50%" style="display:inline">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=6&layout=compact&theme=tokyonight" alt="Top Languages" width = "38%">
 </div>
 
 <br>
@@ -41,11 +41,10 @@
   <a href="https://github.com/Hehe-Boiz/PlantGuard">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=PlantGuard&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Hehe-Boiz/Mamba-DQN">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=Mamba-DQN&theme=tokyonight" />
+  <a href="https://github.com/khaquachtrong74/Detection-Fake-News">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Detection-Fake-News&theme=tokyonight" />
   </a>
-</p>
-
+	</p>
 <p align="center">
   <a href="https://github.com/Hehe-Boiz/AirCast">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=AirCast&theme=tokyonight" />
@@ -54,6 +53,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=NTK&theme=tokyonight" />
   </a>
 </p>
+<p align="center">
+	 <a href="https://github.com/khaquachtrong74/Lua-Matic-Dots">
+	    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Lua-Matic-Dots&theme=tokyonight" />
+	  </a>
+  </p>
 
 ---
 
