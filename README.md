@@ -38,13 +38,14 @@ Love doing stuff on Linux — hate it when the system goes down.
 <br>
 
 <p align="center">
+ <a href="https://github.com/khaquachtrong74/Lua-Matic-Dots">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Lua-Matic-Dots&theme=tokyonight" />
+  </a>
   <a href="https://github.com/Hehe-Boiz/PlantGuard">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=PlantGuard&theme=tokyonight" />
   </a>
-  <a href="https://github.com/khaquachtrong74/Detection-Fake-News">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Detection-Fake-News&theme=tokyonight" />
-  </a>
-	</p>
+
+</p>
 <p align="center">
   <a href="https://github.com/Hehe-Boiz/AirCast">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=AirCast&theme=tokyonight" />
@@ -53,11 +54,6 @@ Love doing stuff on Linux — hate it when the system goes down.
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=NTK&theme=tokyonight" />
   </a>
 </p>
-<p align="center">
-	 <a href="https://github.com/khaquachtrong74/Lua-Matic-Dots">
-	    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Lua-Matic-Dots&theme=tokyonight" />
-	  </a>
-  </p>
 
 ---
 
