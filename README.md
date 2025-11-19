@@ -1,32 +1,84 @@
----
-
 <div style="background-color:white">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg">
-	  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&size=32&center=true&vCenter=true&width=1200&height=120&lines=📖+Open+University+of+Ho+Chi+Minh+City;Α+Β+Γ+Δ+Ε+Ζ+Η+Θ+Ι+Κ+Λ+Μ+Ν;Depressed+with+bugs;Ξ+Ο+Π+Ρ+Σ+Τ+Υ+Φ+Χ+Ψ+Ω&color=6d8fd6">
+		<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&size=32&center=true&vCenter=true&width=1200&height=120&lines=📖+Open+University+of+Ho+Chi+Minh+City;🐧+Linux+enjoyer;💻+Depressed+with+bugs+yet+coding+anyway;🤖+Software+Engineering+%26+AI+Systems+Career+Path;Ξ+Ο+Π+Ρ+Σ+Τ+Υ+Φ+Χ+Ψ+Ω&color=6d8fd6">
 	</a>
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<div align="center">
+	
+### 👋 Hi, I'm κΗα ₍ᐢ•ﻌ•ᐢ₎ 20-year-old CS Student
+	
+<p>Passionate about Software Engineering, Security and AI.</p>
+<p>Reading manga 20 minutes before bed was 4 hours best in my daily life</p>
+<p>Love doing stuff on Linux — hate it when the system goes down.</p>
+	
 
-[Nodething!](https://khaquachtrong74.github.io/Frontend/tailwindcss_test/)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+<br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=khaquachtrong74&theme=tokyonight&hide_border=false)
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaquachtrong74&theme=tokyo-night&hide_border=true&area=true&point=f8f8f2&radius=4" />
+
+[](https://khaquachtrong74.github.io/Frontend/tailwindcss_test/)
+
 
 <div style="flex justify-content:between">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=4&layout=compact&theme=blue_navy" alt="Top Languages" width = "47%">
-	<img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=blue_navy&show_icons=true" alt="GitHub Stats" width = "52%" style="display:inline">
+	<img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=tokyonight&show_icons=true" alt="GitHub Stats" width = "52%" style="display:inline">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=4&layout=compact&theme=tokyonight" alt="Top Languages" width = "47%">
 </div>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Hehe-Boiz/PlantGuard">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=PlantGuard&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Hehe-Boiz/Mamba-DQN">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=Mamba-DQN&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hehe-Boiz/AirCast">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=AirCast&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Hehe-Boiz/NTK">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=NTK&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
-Date: 09-11-2025
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:khaquachtrong74@gmail.com" target="_blank">
+<img src="./assets/gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+</a>
 
-📫 Contact Email: khaquachtrong74@gmail.com
+<a href="https://www.githubcom/khaquachtrong74" target="_blank">
+<img src="./assets/github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+</a>
 
+<a href="https://www.linkedin.com/in/kha-qu%C3%A1ch-tr%E1%BB%8Dng-911905339/" target="_blank">
+<img src="./assets/linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
 
+<a href="https://dev.to/dev_kiran" target="_blank">
+<img src="./assets/dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
+
+<!--Footer--> 
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
