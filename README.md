@@ -41,8 +41,8 @@ Love doing stuff on Linux — hate it when the system goes down.
  <a href="https://github.com/khaquachtrong74/Lua-Matic-Dots">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Lua-Matic-Dots&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Hehe-Boiz/PlantGuard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=PlantGuard&theme=tokyonight" />
+  <a href="https://github.com/khaquachtrong74/Fake-News-Detection">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Fake-News-Detection&theme=tokyonight" />
   </a>
 
 </p>
