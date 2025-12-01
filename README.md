@@ -14,6 +14,7 @@ Passionate about Software Engineering, Security and AI.<br>
 Reading manga 20 minutes before bed was 4 hours best in my daily life<br>
 Love doing stuff on Linux — hate it when the system goes down.
 	
+> *Albert Einstein: 'It's not that I'm so smart, it's just that I stay with problems longer.'*
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
