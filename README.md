@@ -3,7 +3,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&size=32&center=true&vCenter=true&width=1200&height=120&lines=📖+Open+University+of+Ho+Chi+Minh+City;🐧+Linux+enjoyer;💻+Depressed+with+bugs+yet+coding+anyway;🤖+Software+Engineering+%26+AI+Systems+Career+Path;Ξ+Ο+Π+Ρ+Σ+Τ+Υ+Φ+Χ+Ψ+Ω&color=6d8fd6">
 	</a>
 </div>
-
+ 
 ---
 
 <div align="center">
