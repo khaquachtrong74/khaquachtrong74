@@ -8,7 +8,7 @@
 
 <div align="center">
 	
-### 👋 Hi, I'm κΗα ₍ᐢ•ﻌ•ᐢ₎ 20-year-old CS Student
+### 👋 Hi, I'm κΗα ₍ᐢ•ﻌ•ᐢ₎ 20-year-old IT Student
 	
 Passionate about Software Engineering, Security and AI.<br>
 Reading manga 20 minutes before bed was 4 hours best in my daily life<br>
