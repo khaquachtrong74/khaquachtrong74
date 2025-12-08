@@ -1,18 +1,20 @@
-<div style="background-color:white">
+---
+<div>
 	<a href="https://github.com/DenverCoder1/readme-typing-svg">
 		<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&size=32&center=true&vCenter=true&width=1200&height=120&lines=📖+Open+University+of+Ho+Chi+Minh+City;🐧+Linux+enjoyer;💻+Depressed+with+bugs+yet+coding+anyway;🤖+Software+Engineering+%26+AI+Systems+Career+Path;Ξ+Ο+Π+Ρ+Σ+Τ+Υ+Φ+Χ+Ψ+Ω&color=6d8fd6">
 	</a>
 </div>
 
 ---
+![](https://awesome.re/badge.svg) ![HCMCOU](https://img.shields.io/badge/Welcome-red)
 
 <div align="center">
 	
 ### 👋 Hi, I'm κΗα ₍ᐢ•ﻌ•ᐢ₎ 20-year-old IT Student
 	
-Passionate about Software Engineering, Security and AI.<br>
+Passionate about Software Engineering, Security and AI<br>
 Reading manga 20 minutes before bed was 4 hours best in my daily life<br>
-Love doing stuff on Linux — hate it when the system goes down.
+Love doing stuff on Linux
 	
 > *Albert Einstein: 'It's not that I'm so smart, it's just that I stay with problems longer.'*
 
@@ -31,14 +33,14 @@ Love doing stuff on Linux — hate it when the system goes down.
 [](https://khaquachtrong74.github.io/Frontend/tailwindcss_test/)
 
 
-<div style="flex justify-content:between" align="center">
+<!-- <div style="flex justify-content:between" align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=tokyonight&show_icons=true" alt="GitHub Stats" width = "50%" style="display:inline">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=6&layout=compact&theme=tokyonight" alt="Top Languages" width = "38%">
-</div>
+</div> -->
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
  <a href="https://github.com/khaquachtrong74/Lua-Matic-Dots">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Lua-Matic-Dots&theme=tokyonight" />
   </a>
@@ -54,7 +56,7 @@ Love doing stuff on Linux — hate it when the system goes down.
   <a href="https://github.com/Hehe-Boiz/NTK">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=NTK&theme=tokyonight" />
   </a>
-</p>
+</p> -->
 
 ---
 
