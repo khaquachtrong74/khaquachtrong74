@@ -6,7 +6,9 @@
 </div>
 
 ---
+
 ![](https://awesome.re/badge.svg) ![HCMCOU](https://img.shields.io/badge/Welcome-red)
+
 
 <div align="center">
 	
@@ -15,17 +17,34 @@
 Passionate about Software Engineering, Security and AI<br>
 Reading manga 20 minutes before bed was 4 hours best in my daily life<br>
 Love doing stuff on Linux
+
+
 	
 > *Albert Einstein: 'It's not that I'm so smart, it's just that I stay with problems longer.'*
 
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Flatpak](https://img.shields.io/badge/flatpak-%234A90D9.svg?style=for-the-badge&logo=flatpak&logoColor=white)
+<!--
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+!-->
 <br>
 
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khaquachtrong74&theme=tokyonight&hide_border=false)
+
+
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaquachtrong74&theme=tokyo-night&hide_border=true&area=true&point=f8f8f2&radius=4" />
@@ -57,6 +76,8 @@ Love doing stuff on Linux
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=NTK&theme=tokyonight" />
   </a>
 </p> -->
+
+
 
 ---
 
