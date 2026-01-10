@@ -1,41 +1,32 @@
 ---
 <div>
 	<a href="https://github.com/DenverCoder1/readme-typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&size=32&center=true&vCenter=true&width=1200&height=120&lines=📖+Open+University+of+Ho+Chi+Minh+City;🐧+Linux+enjoyer;💻+Depressed+with+bugs+yet+coding+anyway;🤖+Software+Engineering+%26+AI+Systems+Career+Path;Ξ+Ο+Π+Ρ+Σ+Τ+Υ+Φ+Χ+Ψ+Ω&color=6d8fd6">
+		<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&size=32&center=true&vCenter=true&width=1200&height=120&lines=📖+Open+University+of+Ho+Chi+Minh+City;🐧+Linux;💻+Depressed+with+bugs+yet+coding+anyway;🤖+Software+Engineering+%26+AI+Systems+Career+Path;Ξ+Ο+Π+Ρ+Σ+Τ+Υ+Φ+Χ+Ψ+Ω&color=7fb5ff">
 	</a>
 </div>
 
 ---
 
-![](https://awesome.re/badge.svg) ![HCMCOU](https://img.shields.io/badge/Welcome-red)
+![HCMCOU](https://img.shields.io/badge/Welcome-blue) ![](https://awesome.re/badge.svg) 
 
 
+	
+###  Hi, I'm κΗα
+	
+Passionate about Software Engineering and AI<br>
+🫩 Reading manga 20 minutes before bed was 4 hours best in my daily life <br>
+👉👈 I'm love doing stuff on Linux 
 <div align="center">
-	
-### 👋 Hi, I'm κΗα ₍ᐢ•ﻌ•ᐢ₎ 20-year-old IT Student
-	
-Passionate about Software Engineering, Security and AI<br>
-Reading manga 20 minutes before bed was 4 hours best in my daily life<br>
-Love doing stuff on Linux
 
-
-	
-> *Albert Einstein: 'It's not that I'm so smart, it's just that I stay with problems longer.'*
+> *Albert Einstein:  'It's not that I'm so smart, it's just that I stay with problems longer.'*
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Flatpak](https://img.shields.io/badge/flatpak-%234A90D9.svg?style=for-the-badge&logo=flatpak&logoColor=white)
-<!--
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-!-->
-<br>
 
+<br>
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khaquachtrong74&theme=tokyonight&hide_border=false)
@@ -47,37 +38,12 @@ Love doing stuff on Linux
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaquachtrong74&theme=tokyo-night&hide_border=true&area=true&point=f8f8f2&radius=4" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaquachtrong74&theme=tokyo-night&area=false&hide_border=false&custom_title=My%20Coding%20Activity" />
 
 [](https://khaquachtrong74.github.io/Frontend/tailwindcss_test/)
 
 
-<!-- <div style="flex justify-content:between" align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=khaquachtrong74&layout=compact&theme=tokyonight&show_icons=true" alt="GitHub Stats" width = "50%" style="display:inline">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaquachtrong74&langs_count=6&layout=compact&theme=tokyonight" alt="Top Languages" width = "38%">
-</div> -->
-
 <br>
-
-<!-- <p align="center">
- <a href="https://github.com/khaquachtrong74/Lua-Matic-Dots">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Lua-Matic-Dots&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/khaquachtrong74/Fake-News-Detection">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Fake-News-Detection&theme=tokyonight" />
-  </a>
-
-</p>
-<p align="center">
-  <a href="https://github.com/Hehe-Boiz/AirCast">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=AirCast&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Hehe-Boiz/NTK">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hehe-Boiz&repo=NTK&theme=tokyonight" />
-  </a>
-</p> -->
-
-
 
 ---
 
