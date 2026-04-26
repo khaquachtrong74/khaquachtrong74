@@ -1,20 +1,17 @@
----
 <div>
 	<a href="https://github.com/DenverCoder1/readme-typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&size=32&center=true&vCenter=true&width=1200&height=120&lines=📖+Open+University+of+Ho+Chi+Minh+City;🐧+Linux;💻+Depressed+with+bugs+yet+coding+anyway;🤖+Software+Engineering+%26+AI+Systems+Career+Path;Ξ+Ο+Π+Ρ+Σ+Τ+Υ+Φ+Χ+Ψ+Ω&color=7fb5ff">
-	</a>
+		<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&multiline=true&repeat=false&duration=2000&pause=100&size=32&center=false&vCenter=false&width=1200&height=80&lines=Helo+Yolo+HoHoHo;🫴+I'm+κΗα+-+CoreSmith;A" width="100%"></a>
+		
 </div>
 
 ---
 
 ![HCMCOU](https://img.shields.io/badge/Welcome-blue) ![](https://awesome.re/badge.svg) 
 
+An IT guy, not a clown like the movie. <br>
+Passionate on learning, fixing, and crying. <br>
+Best time in the day - reading manga 20 minutes before bed is the best 6 hours.<br>
 
-	
-###  Hi, I'm κΗα
-	
-🐧 Passionate about Linux and AI <br>
-🫩 Reading manga 20 minutes before bed was 4 hours best in my daily life <br>
 <div align="center">
 
 
@@ -27,15 +24,15 @@
 
 <br>
 
-
-
-
 </div>
 
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khaquachtrong74&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
+
+<!--
 ---
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
@@ -49,8 +46,6 @@
 <img src="./assets/linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-
-<!--Footer--> 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
