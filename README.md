@@ -1,6 +1,6 @@
 <div>
 	<a href="https://github.com/DenverCoder1/readme-typing-svg">
-		<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&multiline=true&repeat=false&duration=2000&pause=100&size=32&center=false&vCenter=false&width=1200&height=80&lines=Helo+Yolo+HoHoHo;🫴+I'm+κΗα+-+CoreSmith;A" width="100%"></a>
+		<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono+Regular&multiline=true&repeat=false&duration=2000&pause=100&size=32&center=false&vCenter=false&width=1200&height=80&lines=Helo+Yolo+HoHoHo;🫴+I'm+κΗα+-+lossrunner;A" width="100%"></a>
 		
 </div>
 
