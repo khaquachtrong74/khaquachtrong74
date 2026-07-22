@@ -65,7 +65,7 @@ Status    : Building & Learning
 
 <div align="center">
   <a href="https://github.com/khaquachtrong74/scripts-tools">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=scripts-tools&theme=transparent&title_color=B0C4DE&text_color=B0C4DE&icon_color=8B0000&border_color=30363d&border_radius=20" alt="Tools">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=scripts-tools&theme=transparent&title_color=B0C4DE&text_color=B0C4DE&icon_color=8B0000&border_color=30363d&border_radius=20" alt="scripts-tools">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/khaquachtrong74/NTK">
@@ -74,10 +74,10 @@ Status    : Building & Learning
 </div>
 <div align="center">
   <a href="https://github.com/khaquachtrong74/Fake-News-Detection">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Fake-News-Detection&theme=transparent&title_color=B0C4DE&text_color=B0C4DE&icon_color=8B0000&border_color=30363d&border_radius=20" alt="Tools">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Fake-News-Detection&theme=transparent&title_color=B0C4DE&text_color=B0C4DE&icon_color=8B0000&border_color=30363d&border_radius=20" alt="fake-news-detection">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/khaquachtrong74/Lua-Config">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Lua-Config&theme=transparent&title_color=B0C4DE&text_color=B0C4DE&icon_color=8B0000&border_color=30363d&border_radius=20" alt="Web Design">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Lua-Config&theme=transparent&title_color=B0C4DE&text_color=B0C4DE&icon_color=8B0000&border_color=30363d&border_radius=20" alt="System Config">
   </a>
 </div>
