@@ -1,22 +1,20 @@
-<div>
-        <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Abracadabra&color=B0C4DE" width="100%" height=520></a>
-</div>
 
-![](https://img.shields.io/badge/Everything%20Has%20A%20Mechanism-B0C4DE?style=for-the-badge)
+![](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=40&duration=3500&pause=1000&color=B0C4DE&center=true&vCenter=true&width=1000&height=70&lines=Welcome%20Stranger!)
 
-```console
-$ whoami
-lossrunner
+![](https://img.shields.io/badge/Everything%20Has%20A%20Meaning-B0C4DE?style=for-the-badge)
 
-OS        : Fedora Linux (KDE Plasma)
-Editor    : Neovim
-IDE       : VS Code (for debugging) 😭
-Focus     : Systems • Automation
-Learning  : Software Architecture
-Status    : Building & Learning
-```
+![](https://komarev.com/ghpvc/?username=khaquachtrong74&color=lightgrey)
+ 
+
+> **Foundation**
+>    
+> Like to use TUI tools, automation and computer;
+> 
+> I don't use Arch btw;
+
 <div align="center">
+        
+
 <br>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠃⠂⠀⠀⠀⠐⢀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -49,35 +47,19 @@ Status    : Building & Learning
 ⠀⠀⢨⣛⣿⣿⣿⣷⣮⣭⣭⣭⣛⣋⣿⣿⣿⣿⣿⣿⣿⣇⢾⣿⣯⣴⣏⣸⠏⠀⠀⠀⠿⡧⣷⡕⢌⣦⠈⠂⠀⢀⡁⠠⣀⣙⠆⠀⠐⢦⠝⠻⠿⠿⠿⠟⣛⡛⡛⠨⠦⠙⠍⠉⡭⠉⠩⠍⠁⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⡈⣿⣏⡿⢿⡿⣶⣆⡀⠀⠀⢀⠹⣿⡎⢿⣇⠀⢹⣸⠁⢀⣿⡹⢀⣱⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Flatpak](https://img.shields.io/badge/flatpak-%234A90D9.svg?style=for-the-badge&logo=flatpak&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<!-- *Albert Einstein:  'It's not that I'm so smart, it's just that I stay with problems longer.'*-->
-
 <br>
-
-
-
 </div>
 
-<div align="center">
-  <a href="https://github.com/khaquachtrong74/scripts-tools">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=scripts-tools&theme=transparent&title_color=B0C4DE&text_color=B0C4DE&icon_color=8B0000&border_color=30363d&border_radius=20" alt="scripts-tools">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/khaquachtrong74/NTK">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=NTK&theme=transparent&title_color=B0C4DE&text_color=B0C4DE&icon_color=8B0000&border_color=30363d&border_radius=20" alt="Web Design">
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/khaquachtrong74/Fake-News-Detection">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Fake-News-Detection&theme=transparent&title_color=B0C4DE&text_color=B0C4DE&icon_color=8B0000&border_color=30363d&border_radius=20" alt="fake-news-detection">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/khaquachtrong74/Lua-Config">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khaquachtrong74&repo=Lua-Config&theme=transparent&title_color=B0C4DE&text_color=B0C4DE&icon_color=8B0000&border_color=30363d&border_radius=20" alt="System Config">
-  </a>
-</div>
+# Activity
+![Email](https://img.shields.io/badge/Email-khaquachtrong74@gmail.com-gray?style=flat-square)
+
+![Bash Script](https://img.shields.io/badge/Bash%20Script-B0C4DE?style=for-the-badge&logo=gnu-bash&logoColor=000000)
+![Flatpak](https://img.shields.io/badge/Flatpak-B0C4DE?style=for-the-badge&logo=flatpak&logoColor=000000)
+![Bun](https://img.shields.io/badge/Bun-B0C4DE?style=for-the-badge&logo=bun&logoColor=000000)
+![React](https://img.shields.io/badge/React-B0C4DE?style=for-the-badge&logo=react&logoColor=000000)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaquachtrong74&theme=nord_dark)
+
+
+<p align="center">
+  <img src="./assets/music.svg" width="520">
+</p>
