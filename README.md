@@ -14,7 +14,7 @@
 
 > **Foundation**
 > 
-> Like to use TUI tools, automation and computer;
+> Like TUI tools, automation and computer;
 > 
 > I don't use Arch btw;
 
