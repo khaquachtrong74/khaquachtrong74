@@ -2,9 +2,15 @@
 
 ![](https://img.shields.io/badge/Everything%20Has%20A%20Meaning-24333B?style=for-the-badge&labelColor=0D1316&color=24333B)
 
-![](https://komarev.com/ghpvc/?username=khaquachtrong74&color=55c1cc&label_color=0D1316)
+![Bash Script](https://img.shields.io/badge/Bash%20Script-24333B?style=for-the-badge&logo=gnu-bash&logoColor=55C1CC)
+![Flatpak](https://img.shields.io/badge/Flatpak-24333B?style=for-the-badge&logo=flatpak&logoColor=55C1CC)
+![Bun](https://img.shields.io/badge/Bun-24333B?style=for-the-badge&logo=bun&logoColor=55C1CC)
+![React](https://img.shields.io/badge/React-24333B?style=for-the-badge&logo=react&logoColor=55C1CC)
+
  
 <img align="right" src="./assets/music.svg" width="450">
+
+
 
 > **Foundation**
 > 
@@ -13,6 +19,8 @@
 > I don't use Arch btw;
 
 <div align="center">
+ 
+
         
 <br>
 
@@ -48,12 +56,3 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <br>
 </div>
-
-# Activity
-![Email](https://img.shields.io/badge/Email-khaquachtrong74@gmail.com-24333B?style=flat-square&logoColor=55C1CC)
-
-![Bash Script](https://img.shields.io/badge/Bash%20Script-24333B?style=for-the-badge&logo=gnu-bash&logoColor=55C1CC)
-![Flatpak](https://img.shields.io/badge/Flatpak-24333B?style=for-the-badge&logo=flatpak&logoColor=55C1CC)
-![Bun](https://img.shields.io/badge/Bun-24333B?style=for-the-badge&logo=bun&logoColor=55C1CC)
-![React](https://img.shields.io/badge/React-24333B?style=for-the-badge&logo=react&logoColor=55C1CC)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaquachtrong74&theme=nord_dark)
