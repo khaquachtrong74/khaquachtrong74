@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="500"
+     height="100"
+     viewBox="0 0 500 100">
+
+    <rect width="500" height="100" rx="10" fill="#0d1117"/>
+
+    <text
+        x="20"
+        y="35"
+        fill="#c9d1d9"
+        font-size="18"
+        font-family="JetBrains Mono">
+        ♪ NOW PLAYING
+    </text>
+
+</svg>
